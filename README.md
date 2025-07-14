@@ -1,1 +1,1 @@
-Fire Alarm Project made with C++
+A fire alarm project made with Arduino for school. The project incorporates visual cues via LEDs, auditory alerts via buzzer, SNS alerts via SIM900A Mini v4.0, and uses a 9V and LiPO Battery to power the prototype.
